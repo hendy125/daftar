@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(45deg, #25ff08, #12e7f7);
+
+}
+img {
+    height:150px;
+    width: 150px;;
+}
+marquee {
+    margin-bottom:150;
+}   
